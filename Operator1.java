@@ -79,7 +79,7 @@ class Operator1{
             //boolean b = false;
             //boolean sum = a + b;  
             //System.out.println(sum);
-            // error: bad operand types for binary operator '+' 
+            // error: bad operand types for binary operator '+'. 
        
 
        // }
