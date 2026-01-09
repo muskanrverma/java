@@ -30,7 +30,7 @@ public class Operator2 {
             //char - char = int 
             char a = 'b';        // we can reuse the same variable name as it is not global :)
             char b = 'a';
-            int sub = a - b;  //subtracts the ASCII value of a and b and prints its sum respectively
+            int sub = a - b;  //subtracts the ASCII value of a and b and prints its difference respectively
             System.out.println(sub);
 
         }
