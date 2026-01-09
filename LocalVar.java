@@ -8,7 +8,7 @@ public static void main(String[] args) {
 
     {   //System.out.println(a);  // accessing local variabe outside the block gives CTE 
        
-        //Default values work fr global variables only therfore local variables must be initialized
+        //Default values work for global variables only therfore local variables must be initialized
         
     }                               
 
