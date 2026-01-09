@@ -79,7 +79,7 @@ public class Operator4 {
             
 
        {
-            //boolean + boolean = Compile time error 
+            //boolean / boolean = Compile time error 
             boolean a = true;        
             boolean b = false;
             boolean div = a / b;  
