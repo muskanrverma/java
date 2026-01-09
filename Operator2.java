@@ -30,7 +30,7 @@ public class Operator2 {
             //char - char = int 
             char a = 'b';        // we can reuse the same variable name as it is not global :)
             char b = 'a';
-            int sub = a - b;  // adds the ASCII value of a and b and prints its sum respectively
+            int sub = a - b;  //subtracts the ASCII value of a and b and prints its sum respectively
             System.out.println(sub);
 
         }
@@ -48,7 +48,7 @@ public class Operator2 {
             //float - float = float 
             float a = 5.5f;        // we can reuse the same variable name as it is not global :)
             float b = 1.1f;
-            float sub = a - b;    // mostly used when precision is not the concern eg - CGPA   
+            float sub = a - b;    
             System.out.println(sub);
 
         }
@@ -56,7 +56,7 @@ public class Operator2 {
             //double - double = double    
             double a = 8.5;        // we can reuse the same variable name as it is not global :)
             double b = 5.5;
-            double sub = a - b;   // mostly used when precision is THE  concern eg - value of Pi 
+            double sub = a - b;   
             System.out.println(sub);
 
         }
@@ -65,7 +65,7 @@ public class Operator2 {
             //string - string = String
           //  String a = "Qspiders";        // we can reuse the same variable name as it is not global :)
           //  String b = " Deccan";
-          //  String sub = a - b;         // this is called cancatenation i.e addition or joining of two string data type of data.
+          //  String sub = a - b;        
           //  System.out.println(sub);
 
           //error: bad operand types for binary operator '-'
@@ -78,7 +78,7 @@ public class Operator2 {
             //boolean b = false;
             //boolean sum = a + b;  
             //System.out.println(sum);
-            // error: bad operand types for binary operator '+'. 
+            // error: bad operand types for binary operator '-'. 
        
 
        // }
