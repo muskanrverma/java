@@ -67,7 +67,7 @@ public class Operator4 {
         }
  /* 
         {
-            //string - string = String
+            //string / string = CTE
             String a = "Qspiders";        // we can reuse the same variable name as it is not global :)
             String b = " Deccan";
             String div = a / b;        
