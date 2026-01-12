@@ -27,7 +27,7 @@ public class Operator5 {
         }
         {
             //char % char = int 
-            char a = 'd';        // ASCII value 100
+            char a = 'd';        // ASCII value 100 ;
             char b = '1';        // ASCII value 49
             int mod = a % b;  //divides the ASCII value of a and b and prints its remainder respectively
             System.out.println(mod);
