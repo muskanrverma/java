@@ -17,10 +17,11 @@ class Widening1{
         }
       /*  {
             byte b1 = 100;
-            char c1 = b1;               //error: incompatible types: possible lossy conversion from byte to char
+            char c1 = b1;               //error: incompatible types: possible lossy conversion from byte to charr
             System.out.println(b1);
             
         }*/ 
+       
         {
             byte b1 = 126;
             long l1 = b1;
