@@ -54,7 +54,7 @@ public class Operator5 {
             System.out.println(mod);
         }
       /*   {
-            //string / string = CTE
+            //string % string = CTE
             String a = "Qspiders";        // we can reuse the same variable name as it is not global :)
             String b = " Deccan";
             String mod = a % b;        
@@ -64,14 +64,16 @@ public class Operator5 {
 
         }*/
 
-            {
-                //boolean + boolean = Compile time error 
+          /*  
+          {
+            //boolean % boolean = Compile time error 
             boolean a = true;        
             boolean b = false;
             boolean mod = a % b;  
             System.out.println(mod);
-            // error: bad operand types for binary operator '/'
+
+            // error: bad operand types for binary operator '%'
        
-            }
+            }*/ 
     }
 }
