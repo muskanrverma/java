@@ -14,6 +14,10 @@ class Narrowing3 {
             byte b = (byte)54l;
             System.out.println("long to byte " + b);
         }
+        {
+            char c = (char)99l;
+            System.out.println("long to char "+ c);
+        }
     }
     
 }
