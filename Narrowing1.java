@@ -30,6 +30,11 @@ class Narrowing1 {
             byte b = (byte)120.560;
             System.out.println("double to byte " + b);
         }
+
+        {
+            char c = (char)120.66;
+            System.out.println("double to char " + c);
+        }
     }
     
 }
