@@ -23,12 +23,12 @@ class Narrowing1 {
 
         {
             short s = (short)452.22;
-            System.out.println("long to short "+ s);
+            System.out.println("double to short "+ s);
 
         }
         {
             byte b = (byte)120.560;
-            System.out.println("long to byte " + b);
+            System.out.println("double to byte " + b);
         }
     }
     
